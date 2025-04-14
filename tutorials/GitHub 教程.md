@@ -45,3 +45,7 @@
    - 在页面上方，点击 **`Sync fork`** 按钮，然后选择 **`Update branch`**。  
      如果没有看到 `Sync fork` 按钮，请确保你当前在主分支（如 `main` 或 `master`）。
    - 同步完成后，你的 Fork 仓库将包含原仓库的最新更改。
+
+## GitHub 版本回退教程
+
+[GitHub 版本回退教程](https://www.bilibili.com/video/BV1KE411w7Dc/?share_source=copy_web&vd_source=7f54efe1da20c04e64d8b69684311984)
