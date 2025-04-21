@@ -1,6 +1,6 @@
 ## GitHub 唯一推荐教程
 
-[公司 GitHub 教程仓库](https://github.com/beisi-tech/beisi-github-learning)
+[公司 GitHub 教程仓库](https://github.com/beisi-tech/beisi-github-learning)  
 [原版 GitHub 教程](https://youtu.be/Yn4WNemTV9Y?si=ChRgVBV2vFmYKGwy)
 
 ## 使用 GitHub Desktop 进行 Fork 和 Pull Request 协作 💻
