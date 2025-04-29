@@ -2,6 +2,10 @@
 
 [GitHub 教程](https://youtu.be/Yn4WNemTV9Y?si=ChRgVBV2vFmYKGwy)
 
+## GitHub 学生福利获取
+
+[GitHub 学生福利获取](https://blog.csdn.net/m0_59118857/article/details/137478138)
+
 ## 使用 GitHub Desktop 进行 Fork 和 Pull Request 协作 💻
 
 1. **Fork 仓库**
