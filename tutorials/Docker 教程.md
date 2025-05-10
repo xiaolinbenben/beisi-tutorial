@@ -1,5 +1,9 @@
 # Docker 教程
 
+## 搭建私人 docker 镜像源教程
+
+[搭建私人 docker 镜像源教程](https://www.bilibili.com/video/BV1eYZQYsEpi/?share_source=copy_web&vd_source=7f54efe1da20c04e64d8b69684311984)
+
 ## 如何使用 Docker
 
 ## 可能遇到的问题
