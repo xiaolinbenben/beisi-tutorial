@@ -4,7 +4,7 @@
 ## 教程
 1. [uniapp 教程](tutorials/uniapp%20教程.md)
 2. [访问外网教程](tutorials/访问外网教程.md)
-3. [免费 VPN 网址](https://ikuuu.one)
+3. [caddy 教程](tutorials/caddy%20教程.md)
 4. [Github 使用教程](tutorials/Github使用教程.md)
 5. [在 pycharm 中同步 GitHub 仓库教程](https://blog.csdn.net/john_bian/article/details/94657057)
 6. [npm 包管理工具的使用教程](tutorials/npm%20包管理工具的使用教程.md)
