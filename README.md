@@ -1,17 +1,7 @@
-# 黄色仓库项目手册
+# beisi-tutorial
+## 说明
 
-## 欢迎加入黄色仓库项目
-
-### 项目介绍文档
-
-[黄色仓库(APP 开发)项目介绍与开发者必读](手册/黄色仓库APP开发项目介绍与开发者必读.md)
-
-**测试账号**：3370942916@qq.com
-**测试密码**：@Lzq030424
-
-
-## 教程与手册
-### 教程
+## 教程
 1. [导入 uView-plus 攻略](tutorials/导入uView-plus攻略.txt)
 2. [访问外网教程](tutorials/访问外网教程.md)
 3. [免费 VPN 网址](https://ikuuu.one)
@@ -36,10 +26,3 @@
 22. [VSCode 教程](tutorials/VSCode教程.md)
 23. [weixin 教程](tutorials/weixin教程.md)
 24. [uniapp 教程](tutorials/uniapp教程.md)
-
-### 手册
-1. [黄色仓库使用手册](manual/黄色仓库使用手册.md)
-2. [黄色仓库APP开发项目介绍与开发者必读](manual/黄色仓库APP开发项目介绍与开发者必读.md)
-3. [开发人员信息](manual/开发人员信息.md)
-4. [项目打包手册](manual/项目打包手册.md)
-5. [项目开发规则手册](manual/项目开发规则手册.md)
