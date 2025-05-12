@@ -19,8 +19,8 @@ npx tailwindcss init -p
 
 ## 示例图片
 
-![示例图片](image.png)
-![示例图片](image-1.png)
+![示例图片](../src/image/image6.png)
+![示例图片](../src/image/image7.png)
 
 ## tailwindcss 官方文档
 
