@@ -12,7 +12,7 @@
    解决：
    1. Windows 服务打开 hyper V
    2. 打开虚拟机平台  
-      ![alt text](../src/image/image-19.png)
+      ![alt text](../src/image/t_image20.png)
 2.
 
 ## 项目容器排布

@@ -5,9 +5,9 @@
 ## VS code Markdown 推荐插件
 
 1. Markdown All in One  
-   ![alt text](../src/image/image-18.png)
+   ![alt text](../src/image/t_image22.png)
 2. Markdown Link Updater  
-   ![alt text](../src/image/image-17.png)
+   ![alt text](../src/image/t_image21.png)
 
 ## Markdown 常用语法参考
 
