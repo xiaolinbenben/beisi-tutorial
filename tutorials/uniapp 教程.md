@@ -52,38 +52,39 @@
 
 ![打包生成文件](../src/image/t_image30.png)
 
-### 3.插件市场安装scss插件
+## 三、导入一个UI框架
+### 1.插件市场安装scss插件
 https://ext.dcloud.net.cn/plugin?id=2046
 
-### 4.复制UI库到项目
+### 2.复制UI库到项目
 https://ext.dcloud.net.cn/plugin?name=uview-plus
 
-### 5.main.js
+### 3.main.js
 在/* import Vue from 'vue' */后面添加
 import uviewPlus from '@/uni_modules/uview-plus'
 Vue.use(uviewPlus)
 共两行代码
 
-### 6.App.vue
+### 4.App.vue
 
 将 <style></style> 替换为
 <style lang="scss">
 	@import "@/uni_modules/uview-plus/index.scss";
 </style>
 
-### 7.uni.scss
+### 5.uni.scss
 最前面加入
 @import '@/uni_modules/uview-plus/theme.scss';
 
-### 8.manifest.json
+### 6.manifest.json
 在“map-weixin”和 "map-toutiao"中加入
 "mergeVirtualHostAttributes" : true
 
-### 9.安装依赖库
+### 7.安装依赖库
 npm i dayjs
 npm i clipboard
 
-### 10. pages.json
+### 8. pages.json
 在pages同级配置easycom
 	"easycom": {
 		"autoscan": true,
