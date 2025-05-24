@@ -103,4 +103,6 @@
 ## 如何用GitHub协助开发
 1. [启动GitHub Desktop](../src/video/启动GitHub%20Desktop.mp4)
 
-2. [使用GitHub协作](//src/video/如何使用GitHub协作开发.mp4)
+2. [使用GitHub协作开发](../src/video/如何使用GitHub协作.mp4)
+
+3. [Pull request](../src/video/Pull%20requests.mp4)
