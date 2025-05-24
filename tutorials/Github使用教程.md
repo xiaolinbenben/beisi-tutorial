@@ -99,3 +99,10 @@
  我们可以看到，别的组员新加的或修改的东西已经同步到了我的本机仓库里了。
 
 确认同步工作做完后，大家再开始做各自的开发任务吧！！每个人都要确保自己每次都是在最新版本上做工哦！
+
+## 如何用GitHub协助开发
+1. [启动GitHub Desktop](../src/video/启动GitHub%20Desktop.mp4)
+
+2. [使用GitHub协作开发](../src/video/如何使用GitHub协作.mp4)
+
+3. [Pull request](../src/video/Pull%20requests.mp4)
