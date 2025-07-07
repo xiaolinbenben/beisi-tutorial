@@ -2,7 +2,7 @@
 
 ## 搭建私人 docker 镜像源教程
 
-[搭建私人 docker 镜像源教程](https://www.bilibili.com/video/BV1eYZQYsEpi/?share_source=copy_web&vd_source=7f54efe1da20c04e64d8b69684311984)
+[搭建私人 docker 镜像源教程](https://www.bilibili.com/video/BV1eYZQYsEpi/)
 
 ## 如何使用 Docker
 
@@ -12,8 +12,7 @@
    解决：
    1. Windows 服务打开 hyper V
    2. 打开虚拟机平台  
-      ![alt text](../src/image/t_image20.png)
-2.
+      ![alt text](../../src/image/t_image20.png)
 
 ## 项目容器排布
 
